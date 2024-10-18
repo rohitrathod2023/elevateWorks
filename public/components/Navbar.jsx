@@ -1,6 +1,8 @@
-import React from 'react'
+import React, { useEffect, useState } from 'react'
 
 function Navbar() {
+
+
   return (
     <div>
       <h1 className=''>this is navbar</h1>
