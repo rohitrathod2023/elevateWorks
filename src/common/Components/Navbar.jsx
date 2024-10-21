@@ -53,7 +53,7 @@ const Navbar = () => {
               alt="Logo"
               className="w-10 inline-block items-center"
             />
-            <span className="text-[#263228]">ElevateWork</span>
+            <span className="text-brandPrimary">ElevateWork</span>
           </a>
 
           <ul className=" md:flex space-x-12 hidden">

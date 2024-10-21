@@ -26,7 +26,7 @@ const FooterComponent = () => {
                   alt="Logo"
                   className="w-10 inline-block items-center"
                 />
-                <span className="text-[#263228]">ElevateWork</span>
+                <span className="text-brandPrimary">ElevateWork</span>
               </a>
               <div className="font-semibold text-neutralDGrey ">
                 <p className="mb-1 ">Copyright @2024 ElevateWors ltd.</p>
