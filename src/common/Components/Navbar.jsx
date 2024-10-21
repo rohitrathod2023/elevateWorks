@@ -64,7 +64,7 @@ const Navbar = () => {
                   spy={true}
                   smooth={true}
                   offset={-100}
-                  className=" text-neutralDGrey"
+                  className=" block text-base hover:text-brandPrimary first:font-medium text-neutralDGrey cursor-pointer"
                 >
                   {link}
                 </Link>

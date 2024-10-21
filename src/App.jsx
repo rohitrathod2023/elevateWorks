@@ -3,17 +3,17 @@ import "./App.css";
 import Navbar from "./common/Components/Navbar";
 import Home from "./Pages/Home";
 import Services from "./Pages/Services";
-import About from "./common/Components/About";
+import About from "./Pages/About";
+import FooterComponent from "./common/Components/Footer";
 
 function App() {
-  const [count, setCount] = useState(0);
-
   return (
     <>
       <Navbar />
       <Home />
       <Services />
-      <About/>
+      <About />
+      <FooterComponent />
     </>
   );
 }
